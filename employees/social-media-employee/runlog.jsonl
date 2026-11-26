@@ -1,0 +1,1 @@
+{"routine": "soc-draft-queue", "period": "2026-11-27", "start": "2026-11-27T01:17:08+04:00", "end": "2026-11-27T01:18:03+04:00", "status": "ok", "outputs": ["outputs/2026-11-27-soc-draft-queue.md"], "blockers": [], "notes": "draft saved via ollama/llama3.1, 414 words", "harness": "ollama-agent", "model": "llama3.1"}

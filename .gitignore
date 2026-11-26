@@ -1,0 +1,19 @@
+# secrets - NEVER commit
+.env
+service_account.json
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+# node
+node_modules/
+# local launcher copies / transient run output
+employees/*/run/*.cmd
+employees/*/run/*.last.json
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+state/

@@ -1,0 +1,1 @@
+{"routine": "gtm-board-standup", "end": "2026-11-27T01:15:43+04:00", "status": "ok", "provider": "ollama", "model": "llama3.1", "latency_s": 47.87, "tokens": 677, "fallback_used": false}

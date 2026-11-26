@@ -1,0 +1,1 @@
+{"routine": "ads-desk-standup", "period": "2026-11-27", "start": "2026-11-27T01:18:03+04:00", "end": "2026-11-27T01:18:34+04:00", "status": "ok", "outputs": ["outputs/2026-11-27-ads-desk-standup.md"], "blockers": [], "notes": "draft saved via ollama/llama3.1, 324 words", "harness": "ollama-agent", "model": "llama3.1"}

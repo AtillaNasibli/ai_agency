@@ -1,0 +1,1 @@
+{"routine": "sales-first-touch-drafts", "end": "2026-11-27T01:18:54+04:00", "status": "ok", "provider": "ollama", "model": "llama3.1", "latency_s": 19.94, "tokens": 541, "fallback_used": false}

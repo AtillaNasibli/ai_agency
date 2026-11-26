@@ -1,0 +1,1 @@
+{"routine": "ads-desk-standup", "end": "2026-11-27T01:18:34+04:00", "status": "ok", "provider": "ollama", "model": "llama3.1", "latency_s": 30.85, "tokens": 706, "fallback_used": false}

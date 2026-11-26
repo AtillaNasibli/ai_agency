@@ -1,0 +1,1 @@
+{"routine": "cos-decision-brief", "end": "2026-11-27T01:20:29+04:00", "status": "ok", "provider": "council", "model": "ollama:llama3.2:latest", "council_members": 2, "latency_s": 67.09, "tokens": 3417}

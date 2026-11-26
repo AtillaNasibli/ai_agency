@@ -1,0 +1,14 @@
+{
+  "agency": "AI Marketing & Growth Agency",
+  "project_manager": "chief-of-staff",
+  "employees": {
+    "chief-of-staff":        {"role": "Project Manager (Chief of Staff)", "tasks": "Audits all 7 agents, updates ledger, daily brief"},
+    "gtm-engineer":          {"role": "Campaign Builder / Launch Lead",    "tasks": "Positioning, launch board, outbound drafts, scoreboard"},
+    "seo-employee":          {"role": "SEO/AEO Specialist + Researcher",   "tasks": "Keyword research, daily article, AI-answer visibility"},
+    "web-dev-employee":      {"role": "Technical Auditor",                 "tasks": "Site health, error triage, dependency review"},
+    "social-media-employee": {"role": "Content Writer",                    "tasks": "Platform posts in brand voice, reply drafts"},
+    "ad-manager-employee":   {"role": "Performance Analyst",               "tasks": "Account reads, creative sets, weekly change list"},
+    "sales-employee":        {"role": "Outbound Strategist",               "tasks": "Prospect sweeps, first-touch drafts, follow-ups"},
+    "customer-satisfaction-employee": {"role": "Support Triage",           "tasks": "Inbox sweep, replies drafted, churn flags"}
+  }
+}

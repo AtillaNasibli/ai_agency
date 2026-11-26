@@ -1,0 +1,1 @@
+{"routine": "csat-inbox-sweep", "end": "2026-11-27T01:19:17+04:00", "status": "ok", "provider": "ollama", "model": "llama3.1", "latency_s": 23.48, "tokens": 604, "fallback_used": false}

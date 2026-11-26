@@ -1,0 +1,1 @@
+{"routine": "web-site-sweep", "period": "2026-11-27", "start": "2026-11-27T01:16:28+04:00", "end": "2026-11-27T01:17:08+04:00", "status": "ok", "outputs": ["outputs/2026-11-27-web-site-sweep.md"], "blockers": [], "notes": "draft saved via ollama/llama3.1, 340 words", "harness": "ollama-agent", "model": "llama3.1"}

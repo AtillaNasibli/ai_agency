@@ -1,0 +1,6 @@
+{
+  "_note": "ILLUSTRATIVE ONLY. The real .installed.json is written by `npx ai-employees hire <role> --to <folder>`. Commit the real one from each employees/<role>/ folder.",
+  "employee": "gtm-engineer",
+  "installedAt": "<timestamp written by installer>",
+  "harness": "claude-code"
+}

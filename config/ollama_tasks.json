@@ -1,0 +1,35 @@
+{
+  "_note": "One short, bounded task per employee for the local Ollama runner. Employees only DRAFT; nothing is sent, posted or spent.",
+  "gtm-engineer": {
+    "routine": "gtm-board-standup",
+    "task": "Write a one-page launch board for the next 7 days: positioning statement, 5 launch steps with owners, and 3 outbound message drafts (drafts only)."
+  },
+  "seo-employee": {
+    "routine": "seo-draft-run",
+    "task": "Propose 10 target keywords (with search intent) and draft one 400-word article outline plus an FAQ block written so AI answer engines can quote it."
+  },
+  "web-dev-employee": {
+    "routine": "web-site-sweep",
+    "task": "Produce a technical audit checklist for the client's website (speed, broken links, metadata, mobile, dependencies) with a priority for each item."
+  },
+  "social-media-employee": {
+    "routine": "soc-draft-queue",
+    "task": "Draft 5 social posts (2 LinkedIn, 2 Instagram, 1 X) in a warm, expert brand voice. Posts are drafts for human approval."
+  },
+  "ad-manager-employee": {
+    "routine": "ads-desk-standup",
+    "task": "Write a weekly ad performance read-out template and a change list of 5 concrete, low-risk optimisations to propose (no spend is made)."
+  },
+  "sales-employee": {
+    "routine": "sales-first-touch-drafts",
+    "task": "Define the ideal customer profile in 5 bullets and draft 3 short first-touch emails for different segments (drafts only, never sent)."
+  },
+  "customer-satisfaction-employee": {
+    "routine": "csat-inbox-sweep",
+    "task": "Create a support triage taxonomy (6 categories), 3 reply templates, and a list of churn-risk signals to watch for."
+  },
+  "chief-of-staff": {
+    "routine": "cos-decision-brief",
+    "task": "Summarise in 5 lines what the agency should decide this week, based on the reports of the other employees if provided."
+  }
+}

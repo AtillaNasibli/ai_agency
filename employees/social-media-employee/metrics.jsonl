@@ -1,0 +1,1 @@
+{"routine": "soc-draft-queue", "end": "2026-11-27T01:18:03+04:00", "status": "ok", "provider": "ollama", "model": "llama3.1", "latency_s": 54.82, "tokens": 756, "fallback_used": false}
