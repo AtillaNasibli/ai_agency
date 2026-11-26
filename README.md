@@ -51,3 +51,4 @@ Council setup: `ollama pull llama3.2` (a 2nd model) or set `COUNCIL_MODELS` in `
 
 ## Safety
 Employees only produce **drafts**; nothing is sent, posted or spent. Credentials stay in `.env` / `service_account.json` (git-ignored) and are used only by the bridge, never by employees. The local runner is a lightweight mode; the full kits in `employees/` can also be run by a harness such as Claude Code.
+"# ai_agency" 
